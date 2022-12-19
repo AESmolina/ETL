@@ -1,0 +1,1 @@
+5-15/5 20 * * * /home/demipt3/smla/project/main.py &>/home/demipt3/smla/project_log.txt
